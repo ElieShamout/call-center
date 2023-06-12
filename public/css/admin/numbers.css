@@ -1,0 +1,14 @@
+.numbers-section{
+    padding:30px;
+}
+
+.numbers-section .title{
+    text-transform: uppercase;
+    padding: 0px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.numbers-section .content{
+
+}

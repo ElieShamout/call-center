@@ -1,0 +1,25 @@
+.phones-number {
+    width: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 55px;
+}
+
+.phones-number .content {
+    width: 70%;
+    min-height: 90vh;
+    background-color: #ffffffa0 !important;
+    backdrop-filter: blur(8px);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #000000;
+    margin: 10px 0 20px 0;
+    padding:30px;
+
+}
+.phones-number-title{
+    font-size: 40px !important;
+    text-transform: capitalize;
+    border-bottom: 1px solid #ffffff90;
+}

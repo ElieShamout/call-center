@@ -1,0 +1,14 @@
+.employees-section{
+    padding:30px;
+}
+
+.employees-section .title{
+    text-transform: uppercase;
+    padding: 0px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.employees-section .content{
+
+}

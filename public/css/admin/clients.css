@@ -1,0 +1,14 @@
+.clients-section{
+    padding:30px;
+}
+
+.clients-section .title{
+    text-transform: uppercase;
+    padding: 0px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.clients-section .content{
+
+}

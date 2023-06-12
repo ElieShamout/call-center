@@ -1,0 +1,98 @@
+.employee-sessions {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 55px;
+}
+
+.employee-sessions .employee-sessions-box {
+    width: 70%;
+    height: 90vh;
+    position: relative;
+}
+
+.employee-sessions .employee-sessions-box .content {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffffa0 !important;
+    backdrop-filter: blur(8px);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #000000;
+    padding: 30px;
+}
+.employee-sessions-title{
+    font-size: 40px !important;
+    text-transform: capitalize;
+    border-bottom: 1px solid #ffffff90;
+}
+.search-nav {
+    border-bottom: 2px solid #333;
+}
+
+.search_text {
+    max-width: 250px;
+}
+
+.result_number {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    line-height: 25px;
+    text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.568);
+    /* background-color: #FFDE50; */
+    border:2px dashed rgba(255, 255, 255, 0.511);
+    padding:10px;
+    border-radius: 10px;
+    /* box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.804); */
+    color: #FFDE50;
+}
+
+.result_number_num {
+    font-size: 30px;
+    text-align: center;
+}
+
+.result_number_word {
+    letter-spacing: 2px;
+}
+
+
+.result-content table td {
+    vertical-align: middle;
+}
+
+
+.session-info-view {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 150px 0 150px 0;
+    background-color: #ffffffa0;
+    backdrop-filter: blur(8px);
+    box-shadow: 0px 0px 10px #000000;
+}
+
+.session-close-view-btn {
+    position: absolute;
+    right: 10px;
+    top: 0px;
+    color: #111;
+    font-size: 40px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.session-close-view-btn:hover {
+    color: #111111a0;
+}
+
+.session-info-title {
+    border-bottom: 2px solid #000000a0;
+    color: #000000a0;
+    text-transform: capitalize;
+}
